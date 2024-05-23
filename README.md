@@ -1,5 +1,3 @@
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-
 <h1 align="center">Hi 👋, I'm Caio Pompei</h1>
 <h3 align="center">"Aspiring Tech Explorer 🌐 | Computer Science Student 💻 | Passionate about Conquering Coding Challenges 🚀</h3>
 
@@ -20,5 +18,4 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!--MySQL-->    </p>  
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pix4gunxd&show_icons=true&locale=en&layout=compact" alt="pix4gunxd" /></p>
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="caiopompei" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/caiopompei?trk=profile-badge">Caio Pompei Campos</a></div>
               
