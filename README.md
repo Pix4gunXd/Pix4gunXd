@@ -1,3 +1,5 @@
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
 <h1 align="center">Hi 👋, I'm Caio Pompei</h1>
 <h3 align="center">"Aspiring Tech Explorer 🌐 | Computer Science Student 💻 | Passionate about Conquering Coding Challenges 🚀</h3>
 
