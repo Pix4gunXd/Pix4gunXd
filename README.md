@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Pompei</h1>
 <h3 align="center">"Aspiring Tech Explorer 🌐 | Computer Science Student 💻 | Passionate about Conquering Coding Challenges 🚀</h3>
 
-- 🌱 I’m currently learning **Python and AI**
+- 🌱 I’m currently learning **Python / AI / Data Science**
 
 - 📫 How to reach me **Caio.pompei@gmail.com**
 
