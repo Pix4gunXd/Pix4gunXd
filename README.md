@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Caio Pompei</h1>
 <h3 align="center">"Aspiring Tech Explorer 🌐 | Computer Science Student 💻 | Passionate about Conquering Coding Challenges 🚀</h3>
 
-- 🌱 I’m currently learning **Python / AI / Data Science**
-
-- 📫 How to reach me **Caio.pompei@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/caio-pompei-campos-9a6658267" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="caio-pompei-campos-9a6658267" height="30" width="40" /></a>
-<a href="https://instagram.com/caio_pompei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="caio_pompei" height="30" width="40" /></a>
-</p>
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/caio_pompei) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/caio-pompei-campos-9a6658267) 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -22,5 +15,5 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pix4gunxd&show_icons=true&locale=en&layout=compact" alt="pix4gunxd" /></p>
-
+# 📊 Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pix4gunXd&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
